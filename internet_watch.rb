@@ -37,7 +37,6 @@ def notify(internet_up)
   time = Time.now
   if internet_up
     %x( growlnotify -m "The internet is up!")
-    puts "It's back!".blue
     puts "Internet is UP".green + " @ #{time.strftime("%I:%M:%S %p")}"
     puts "Text sent!".blue if @mail.deliver
   else
