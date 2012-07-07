@@ -1,4 +1,4 @@
-## Is it back yet?
+**Is it back yet?**
 
 If I had a nickel for every time I've heard "Is the internet back yet?" at home in the last few days, I would easily have a couple dollars.
 
